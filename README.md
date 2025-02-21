@@ -34,7 +34,7 @@ This application helps track and send reminders for student submissions. It auto
 ## Directory Structure
 
 ```
-submission_reminder_<username>/
+submission_reminder_{username}/
 ├── app/
 │   └── reminder.sh
 ├── modules/
@@ -64,7 +64,3 @@ Checking submissions in ./assets/submissions.txt
 Reminder: Chinemerem has not submitted the Shell Navigation assignment!
 Reminder: Divine has not submitted the Shell Navigation assignment!
 ```
-
-## Contributing
-
-Feel free to submit issues and enhancement requests!
